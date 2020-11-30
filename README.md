@@ -8,7 +8,15 @@
 🤓 现在，我正在学习React、Golang和算法。          
 📝 当我受到启发时，我会在Github上donate一些菜鸟代码和在我的个人[Blog](https://garyliu1996.github.io/)写一些文章。   
 📜 我最喜欢的名言是：“弱小和无知不是生存障碍,傲慢才是。” - 《三体》   
-👫 我期待工作/生活的平衡，追求灵魂的安稳。我是个🏀篮球运动的狂热爱好者，最喜欢的球员是*Big Yao 11*。   
+👫 我期待工作/生活的平衡，追求灵魂的安稳。我是个🏀篮球运动的狂热爱好者，最喜欢的球员是*Big Yao 11 && King James 23*。   
+## 生命中要做的事
+
+🌱 重新返回校园读书，安定自己的灵魂   
+⚡ 找到一份薪资满意的工作
+🏀 把💴投资到自己喜欢的事物    
+🙆 减少社交媒体的使用，独自旅行   
+♎ 坚持更新自己的Blog
+
 
 <!--
 **GaryLiu1996/GaryLiu1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

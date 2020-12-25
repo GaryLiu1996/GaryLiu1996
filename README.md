@@ -1,8 +1,6 @@
 ## HELLO! My friends~ 👋   
 
-![header](./imgs/header_.png)
-
-## Hey, My Friends！ 👋   
+![header](./imgs/header_.png) 
 
 🌞 I'm Liu, you can call my nick name Gary ^_^		
 

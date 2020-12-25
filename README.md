@@ -1,10 +1,10 @@
-## HELLO!我的朋友~ 👋   
+## HELLO! My friends~ 👋   
 
 ![header](./imgs/header_.png)
 
 ## Hey, My Friends！ 👋   
 
-🌞 I'm Liu,you can call my nick name Gary ^_^		
+🌞 I'm Liu, you can call my nick name Gary ^_^		
 
 👔 Now live in Dalian, China.		
 
@@ -12,9 +12,9 @@
 	
 ⚡ Hark woking... 				
 
-📚 Now learing Vuejs,ES6,Golang...			
+📚 Now learing Vuejs, ES6, Golang...			
 
-🏀 I'm a crazy basketball fan,**lEBRON** is my goat on society,work,friendship and family. 		
+🏀 I'm a crazy basketball fan, **lEBRON** is my goat on society,work,friendship and family. 		
 
 🤓 Nice to meet you! :D :> :@ 	
 

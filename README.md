@@ -12,7 +12,7 @@
 
 📚 Now learing Vuejs, ES6, Golang...			
 
-🏀 I'm a crazy basketball fan, **lEBRON** is my goat on society,work,friendship and family. 		
+🏀 I'm a crazy basketball fan, **James Harden** is my goat on society,work,friendship and family. 		
 
 🤓 Nice to meet you! :D :> :@ 	
 
